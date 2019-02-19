@@ -1,5 +1,5 @@
 
-# LZ78 Compression 
+# LZXY Compression 
 
 This picture was created by this program/script - i tooked google.com to demonstrate the amount. 
 You can test it by yourself - download this repo and open index.html
