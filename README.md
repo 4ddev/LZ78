@@ -1,8 +1,9 @@
 
 # LZ78 Compression 
 
-This picture is created with this little script - and google.com - 
-you can test it yourselve - download this repo and open index.html
+This picture was created by this program/script - i tooked google.com to demonstrate the amount. 
+You can test it by yourself - download this repo and open index.html
+
 ![Google network load save](https://user-images.githubusercontent.com/46779214/53012258-c0e17e00-3442-11e9-987f-f5bf12fd0d7b.PNG?raw=true "Demonstration network load saving")
 
 
