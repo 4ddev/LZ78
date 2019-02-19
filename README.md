@@ -1,5 +1,6 @@
 
 # LZ78 Compression 
+![Google network load save](https://user-images.githubusercontent.com/46779214/53012258-c0e17e00-3442-11e9-987f-f5bf12fd0d7b.PNG?raw=true "Demonstration network load saving")
 
 
 This Project was written to check the benefits of a dictionary compression
